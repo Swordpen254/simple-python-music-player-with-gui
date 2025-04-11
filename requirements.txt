@@ -1,0 +1,4 @@
+pygame
+mutagen
+customtkinter
+tkinter
